@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Restoration Cascade",
+  "description": "Upload a damaged or old photo, provide optional instructions, and watch as AI restores it step-by-step into a high-quality, modern image using a multi-step generative process.",
+  "requestFramePermissions": []
+}
